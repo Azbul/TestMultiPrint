@@ -1,0 +1,7 @@
+C:\Users\Adam\source\repos\TestMultiPrint\TestMultiPrint\obj\Debug\TestMultiPrint.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\TestMultiPrint\TestMultiPrint\obj\Debug\TestMultiPrint.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\TestMultiPrint\TestMultiPrint\bin\Debug\TestMultiPrint.exe.config
+C:\Users\Adam\source\repos\TestMultiPrint\TestMultiPrint\bin\Debug\TestMultiPrint.exe
+C:\Users\Adam\source\repos\TestMultiPrint\TestMultiPrint\bin\Debug\TestMultiPrint.pdb
+C:\Users\Adam\source\repos\TestMultiPrint\TestMultiPrint\obj\Debug\TestMultiPrint.exe
+C:\Users\Adam\source\repos\TestMultiPrint\TestMultiPrint\obj\Debug\TestMultiPrint.pdb
